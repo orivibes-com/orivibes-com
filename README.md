@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/openmonitor-icon.png" width="104" alt="OriVibes product icon">
+  <img src="./assets/evan-avatar.jpg" width="120" alt="Evan">
   <h1>Evan</h1>
   <p><strong>Independent developer behind OriVibes.</strong></p>
   <p>I build focused macOS utilities and practical products for modern, AI-assisted work.</p>
